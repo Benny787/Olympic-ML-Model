@@ -24,12 +24,7 @@ pip install pandas numpy seaborn scikit-learn
 ```
 ## Instructions
 
-1.) Clone the repository and navigate to the project directory.
-
-```bash
-git clone https://github.com/Benny787/Olympic-ML-Model
-cd Olympic-ML-Model
-```
+1.) Download the repository and navigate to the project directory.
 
 2.) Open Jupyter Notebook in the project directory.
 
